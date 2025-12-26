@@ -23,7 +23,8 @@
     "dompurify": "latest",
     "next-themes": "^0.3.0",
     "tailwind-merge": "^2.5.2",
-    "clsx": "^2.1.1"
+    "clsx": "^2.1.1",
+    "@hello-pangea/dnd": "^16.6.0"
   },
   "devDependencies": {
     "typescript": "latest",
