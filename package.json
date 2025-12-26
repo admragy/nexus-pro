@@ -1,0 +1,29 @@
+{
+  "name": "nexus-pro",
+  "version": "8.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "tailwindcss": "latest",
+    "@supabase/supabase-js": "latest",
+    "lucide-react": "latest",
+    "framer-motion": "latest",
+    "recharts": "latest",
+    "sonner": "latest",
+    "zustand": "latest",
+    "marked": "latest",
+    "dompurify": "latest"
+  },
+  "devDependencies": {
+    "typescript": "latest",
+    "@types/react": "latest",
+    "@types/node": "latest"
+  }
+}
